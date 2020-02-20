@@ -5,7 +5,7 @@ Proposed implementation of Alex Grave [paper](https://arxiv.org/abs/1308.0850)
 ## Results
 
 ### Handwritten synthesis of a dactilographed text  
-text : Welcome to Lyrebird
+text : Welcome to my repository
 ![Example synthesis](/data/readme/synsthesis.jpeg)
 
 Attention windows
