@@ -1,6 +1,6 @@
 # Handwriting | Predict & Synsthesis
 
-Proposed implementation of Alex Grave [paper](https://arxiv.org/abs/1308.0850)
+Proposed implementation of Alex Graves [paper](https://arxiv.org/abs/1308.0850)
 
 ## Results
 
