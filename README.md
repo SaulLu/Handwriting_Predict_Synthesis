@@ -1,4 +1,4 @@
-# Handwriting | Predict & Synsthesis
+# Handwriting | Predict & Synthesis
 
 Proposed implementation of Alex Graves [paper](https://arxiv.org/abs/1308.0850)
 
